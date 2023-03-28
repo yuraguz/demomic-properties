@@ -1,0 +1,8 @@
+example.property: "I am demomic product DEV config"
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/DEMOMIC_PRODUCT
+    username: DEMOMIC_PRODUCT
+    password: DEMOMIC_PRODUCT

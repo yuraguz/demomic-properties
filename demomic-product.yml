@@ -1,0 +1,8 @@
+example.property: "I am demomic product DEFAULT config"
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://postgres:5432/demomic_product
+    username: GZ_DEMOMIC
+    password: GZ_DEMOMIC
