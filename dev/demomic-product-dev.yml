@@ -1,4 +1,4 @@
-example.property: "I am demomic product DEV config"
+example.property: "I am demomic product DEV config from git source"
 
 spring:
   datasource:
