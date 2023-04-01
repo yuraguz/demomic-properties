@@ -2,5 +2,5 @@ spring:
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/DEMOMIC_PRODUCT
-    username: "{cipher}1e8607796a927448e08743f2fcdc83a31111d321760db4c4fb05f3564a243b81"
-    password: "{cipher}1e8607796a927448e08743f2fcdc83a31111d321760db4c4fb05f3564a243b81"
+    username: "DEMOMIC_PRODUCT"
+    password: "DEMOMIC_PRODUCT"
