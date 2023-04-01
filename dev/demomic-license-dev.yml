@@ -1,4 +1,5 @@
-example.property: "I am demomic license DEV config"
+demomic-license:
+  greetingMessage: "Greeting message from demomic license"
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
