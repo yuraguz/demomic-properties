@@ -1,5 +1,5 @@
 demomic-product:
-  greetingMessage: "Greeting message from demomic product GIT"
+  greetingMessage: "Greeting message from demomic product SUPER GIT"
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
